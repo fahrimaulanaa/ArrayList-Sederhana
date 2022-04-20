@@ -4,7 +4,11 @@ produk yang tersedia di default ArrayList.
 
 
 
-**Tools languange used:**
+**Tools used:**
 
-![java-logo3-removebg-preview](https://user-images.githubusercontent.com/88439222/164267578-cd0c409f-a23a-4059-ac0e-12e0f7880d62.png) 
+![vscode](https://user-images.githubusercontent.com/88439222/164270529-54721b42-ca81-4819-9bec-611eb3412f87.png)
+
+![java-logo3-removebg-preview](https://user-images.githubusercontent.com/88439222/164270553-1d49cf9a-4cc6-4146-bda9-4d9f607e107d.png)
+
+
 
